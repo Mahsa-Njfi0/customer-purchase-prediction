@@ -151,14 +151,18 @@ customer-purchase-prediction/
 │
 ├── data/
 │   └── Online Retail.xlsx
+
 │
 ├── notebooks/
 │   └── retail_churn_model.ipynb
+
 │
 ├── src/
-│   └── utils.py   (optional)
+│   └── utils.py 
+
 │
 ├── README.md
+
 │
 └── requirements.txt
 
@@ -172,18 +176,22 @@ Follow the steps below to set up the environment and run the notebook.
 ### 1. Clone the repository
 
 git clone https://github.com/Mahsa-Njfi0/customer-purchase-prediction.git
+
 cd customer-purchase-prediction
 
 ### 2. Install the required packages
 
 Make sure you have Python 3.8+ installed.
+
 pip install -r requirements.txt
 
 ### 3. Open the Jupyter Notebook
 Launch Jupyter Notebook or Jupyter Lab:
+
 jupyter notebook
 
 Then open the notebook located at:
+
 notebooks/retail_purchase_prediction.ipynb
 
 ---
