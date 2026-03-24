@@ -1,7 +1,7 @@
-# 🛒 Customer Purchase Prediction  
+# Customer Purchase Prediction  
 Predicting whether a customer will return next month using transactional retail data.
 
-## 📌 Project Overview  
+## Project Overview  
 This project builds a machine learning model that predicts whether a customer will make a purchase in the following month.  
 It uses real-world retail transaction data and applies feature engineering techniques such as:
 
@@ -13,7 +13,7 @@ The goal is to help businesses identify customers at risk of churn and target th
 
 ---
 
-## 🚀 Key Features  
+## Key Features  
 - Clean, modular project structure using a `src/` folder  
 - Professional feature engineering pipeline  
 - Clear target variable creation (customer return next month)  
@@ -23,7 +23,7 @@ The goal is to help businesses identify customers at risk of churn and target th
 
 ---
 
-## 🧠 Project Workflow  
+## Project Workflow  
 1. **Data Cleaning**  
 2. **Feature Engineering**  
    - RFM features  
@@ -35,7 +35,7 @@ The goal is to help businesses identify customers at risk of churn and target th
 
 ---
 
-## 📊 Model Performance  
+## Model Performance  
 The Random Forest model shows strong performance on the positive class (customers who return):
 
 | Metric | Class 1 (Return) |
