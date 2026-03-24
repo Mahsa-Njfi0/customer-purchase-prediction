@@ -148,22 +148,31 @@ These enhancements would make the project even more production-ready.
 ## Project Structure
 
 customer-purchase-prediction/
+
 │
+
 ├── data/
+
 │   └── Online Retail.xlsx
 
 │
+
 ├── notebooks/
+
 │   └── retail_churn_model.ipynb
 
 │
+
 ├── src/
+
 │   └── utils.py 
 
 │
+
 ├── README.md
 
 │
+
 └── requirements.txt
 
 
