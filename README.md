@@ -163,8 +163,28 @@ customer-purchase-prediction/
 └── requirements.txt
 
 
-This structure keeps the project clean, modular, and easy to navigate.
+---
 
+## How to Run the Project
+
+Follow the steps below to set up the environment and run the notebook.
+
+### 1. Clone the repository
+
+git clone https://github.com/Mahsa-Njfi0/customer-purchase-prediction.git
+cd customer-purchase-prediction
+
+### 2. Install the required packages
+
+Make sure you have Python 3.8+ installed.
+pip install -r requirements.txt
+
+### 3. Open the Jupyter Notebook
+Launch Jupyter Notebook or Jupyter Lab:
+jupyter notebook
+
+Then open the notebook located at:
+notebooks/retail_purchase_prediction.ipynb
 
 ---
 
